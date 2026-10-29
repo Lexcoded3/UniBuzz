@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Unibuzz Bold Emblem - High-Visibility Large Scaling -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M24,18 h18 v42 c0,7.7 6.3,14 14,14 c7.7,0 14,-6.3 14,-14 V18 h18 v42 c0,17.7 -14.3,32 -32,32 c-17.7,0 -32,-14.3 -32,-32 Z"/>
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M48,26 h12 v34 c0,3.3 -2.7,6 -6,6 c-3.3,0 -6,-2.7 -6,-6 Z"/>
+</vector>

@@ -1,0 +1,28 @@
+# Built application outputs
+*/build/
+*.apk
+*.ap_
+
+# Gradle
+.gradle/
+local.properties
+/.gradle/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore and signing files
+*.jks
+*.key
+*.p12
+*.pem
+
+# Misc
+captures/
+exports/
+*.log
+.DS_Store
+Thumbs.db
